@@ -58,3 +58,10 @@
 # 오류
 ### zlibwapi.dll error
 ![tensorflow_error_zlibwapi](https://user-images.githubusercontent.com/39722575/204003032-61b15473-0e3f-4f95-82e7-501367528247.PNG)
+
+* 다음 오류는 bin폴더에 zlibwapi.dll 파일이 없어서 생긴 오류입니다.
+### 해결
+
+![dll](https://user-images.githubusercontent.com/39722575/204011099-21f72b54-5f68-4040-9e15-eb33e1ee1627.PNG)
+* 다음 사이트를 통해 **64bit => ZLIB DLL // 32bit => 32-bit ZLIB DLL** 을 클릭하셔서 다운받으시고 zlibwapi.dll파일만 복사하여
+* C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin 경로에 붙여넣기 하시면 됩니다.  
