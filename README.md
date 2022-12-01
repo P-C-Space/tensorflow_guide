@@ -55,11 +55,17 @@
 * C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\inclue
 
 
+### visual studio jupyter notebook 확인
+![gpu연결확인](https://user-images.githubusercontent.com/39722575/205069902-1bb27fdb-a67b-4358-84dc-59ca1a730b73.PNG)
+
+
+
 # 오류
 ### zlibwapi.dll error
 ![tensorflow_error_zlibwapi](https://user-images.githubusercontent.com/39722575/204003032-61b15473-0e3f-4f95-82e7-501367528247.PNG)
 
 * 다음 오류는 bin폴더에 zlibwapi.dll 파일이 없어서 생긴 오류입니다.
+
 ### 해결
 
 ![dll](https://user-images.githubusercontent.com/39722575/204011099-21f72b54-5f68-4040-9e15-eb33e1ee1627.PNG)
