@@ -58,6 +58,7 @@
 ### visual studio jupyter notebook 확인
 ![gpu연결확인](https://user-images.githubusercontent.com/39722575/205069902-1bb27fdb-a67b-4358-84dc-59ca1a730b73.PNG)
 
+다음과 같이 인식하는 것을 확인하실 수 있습니다.
 
 
 # 오류
