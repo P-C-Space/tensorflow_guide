@@ -61,6 +61,16 @@
 다음과 같이 인식하는 것을 확인하실 수 있습니다.
 
 
+## 아나콘다 설치
+* 아나콘다 설치
+* https://www.anaconda.com/products/distribution#
+
+### tensorflow-파이썬 호환표
+* https://www.tensorflow.org/install/source_windows#tested_build_configurations
+
+### 패키지 설치
+* 아나콘다 설치 후
+
 # 오류
 ### zlibwapi.dll error
 ![tensorflow_error_zlibwapi](https://user-images.githubusercontent.com/39722575/204003032-61b15473-0e3f-4f95-82e7-501367528247.PNG)
