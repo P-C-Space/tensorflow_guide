@@ -52,7 +52,7 @@
 * 다음 세개의 경로를 추가합니다.
 * C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\lib
 * C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin
-* C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\inclue
+* C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\include
 
 
 ### visual studio jupyter notebook 확인
