@@ -1,6 +1,9 @@
+# **이 글은 과거 구성이며 2025.2.14일 기준으로 업데이트 되었습니다.
+- 아나 콘다 설치부터 가상환경, 그래픽 드라이버 환경까지 모두 작성된 블로그로 와주시길 바랍니다.
+![블로그 링크](https://p-coding.tistory.com/109)
+
 # tensorflow_GPU_guide(텐서플로우 설치 가이드)
 * 텐서플로우 GPU사용을 위해 설치하면서 많은 오류로 인해 또 설치가 성공적으로 되어 그래픽카드 인식을 하여도 다른 오류로 진행이 되지 않는 등.. 어려움을 겪었습니다. 부디 다른분들은 오류없이 바로 사용하실 수 있도록 하는 마음에 정리하여 보았습니다.
-
 
 ### NVIDIA GPU 드라이버 설치(install NVIDIA GPU Driver)
 ![NVIDIA_GPU_DRIVER](https://user-images.githubusercontent.com/39722575/204004320-f6f368a7-5d68-4a5a-9da1-1dceabbb2d25.PNG)
@@ -10,7 +13,7 @@
 
 ![NVIDIA_GPU_VERSION](https://user-images.githubusercontent.com/39722575/204002507-e3ae8ad5-36f7-4162-b2aa-612ff10f4f0c.PNG)
 
-* **CUDA : 11.7 ->  CUDA 11.7을 설치해야 한다.** - 밑에 추가는 참조 11.7 설치해야 한다.
+* **CUDA : 11.7
 * <추가> NVIDIA GPU driver와 CUDA호환표 https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html\
 * <추가> NVIDIA GPU 그래픽카드 https://ko.wikipedia.org/wiki/CUDA
 
